@@ -1,5 +1,8 @@
-#ODD FILE
+#SPECIFIC FILE
 sh.exe.stackdump
 
-#BACKUP FILES
+#PATTERN
 *.bak
+
+#FOLDERS
+log/
