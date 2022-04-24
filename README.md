@@ -10,4 +10,4 @@ Please fork this repository and then issue Pull Requests for Review
 ## Deployment
 This is a simple web project, deployment can be on any web server or even local file system
 ### Copyright
-2022 Git.Training.Perritas
+2022 Git Training. All Rights Reserved.
